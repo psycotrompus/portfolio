@@ -2,5 +2,6 @@
   "undef": true,
   "unused": true,
   "esversion": 11,
-  "strict": "implied"
+  "strict": "implied",
+  "node": true
 }
